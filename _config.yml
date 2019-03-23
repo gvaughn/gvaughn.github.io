@@ -1,12 +1,12 @@
 theme: jekyll-theme-architect
 
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
+#   - scope:
+#       path: ""
+#     values:
+#       layout: "default"
