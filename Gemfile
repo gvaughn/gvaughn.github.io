@@ -1,3 +1,4 @@
+# use `bundle exec jekyll serve` locally to test out site on port 4000
 source 'https://rubygems.org'
 
 gem 'jekyll'
