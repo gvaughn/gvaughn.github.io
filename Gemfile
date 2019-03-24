@@ -1,6 +1,5 @@
-# use `bundle exec jekyll serve` locally to test out site on port 4000
-# Normally `{% feed_meta %}` should go in head of layout for rss feed but
-# github his not happy with it
+# use `bundle exec jekyll serve --incremental` locally to test out site on port 4000
+
 source 'https://rubygems.org'
 
 gem 'jekyll'
