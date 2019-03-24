@@ -1,4 +1,5 @@
-# use `bundle exec jekyll serve --incremental` locally to test out site on port 4000
+# use `bundle exec jekyll serve` locally to test out site on port 4000
+# create new blogs in _posts named by date-title.md
 
 source 'https://rubygems.org'
 
