@@ -1,13 +1,22 @@
+# NOTE: after editing this file, you will have to restart `jekyll serve`
+
 title: Greg Vaughn's Musings
 description: Mostly technical, primarily Elixir contents, but maybe I'll branch out too
 author: Greg Vaughn
 show_downloads: false
+
+# source of theme: https://github.com/pages-themes/architect
+# NOTE: all supported themes are available at /pages-themes/
 theme: jekyll-theme-architect
 
+# atom feed https://help.github.com/en/articles/atom-rss-feeds-for-github-pages
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-mentions
+  - jekyll-seo
 
-# This below is supposed to let us avoid setting layout, but not sure its working
 defaults:
   - scope:
       path: ""
