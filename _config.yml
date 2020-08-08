@@ -1,4 +1,4 @@
-# NOTE: after editing this file, you will have to restart `jekyll serve`
+# NOTE: after editing this file, you will have to restart `bundle exec jekyll serve`
 
 title: Greg Vaughn's Musings
 description: Mostly technical, primarily Elixir contents, but maybe I'll branch out too
